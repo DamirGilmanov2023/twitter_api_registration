@@ -1,0 +1,6 @@
+TWITTER SMS -TOKEN-    Verified by SMS. Female. Latin names
+
+login: 
+pass: 
+phone: 
+auth_token: 
